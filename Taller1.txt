@@ -35,7 +35,7 @@ saided corporativo
 
 ¿Cuántos endpoints tendrá la organización? (esto define licenciamiento).
 
-¿Qué políticas de seguridad aplicarán? (antivirus, cifrado, control de USB, firewall, etc.).
+¿Qué políticas de seguridad aplicarán? (antivirus, cifrado, control de USB, firewall, etc.)..
 
 
 
