@@ -1,0 +1,41 @@
+Este es el primer laboratorio de Programación Móvil
+Lo que se quiere mostrar es como se realiza el versiona miento para 
+emulando como se realizaría
+
+gracias  
+
+https://support.microsoft.com/es-es/account-billing/error-400-al-iniciar-sesi%C3%B3n-7af27146-7624-4397-a374-6f8eae4367fe
+
+correo
+Zimbra2025*
+Eset
+IdeasZimbra2025*
+
+Centro de administración de exchange
+https://admin.exchange.microsoft.com/#/mailboxes
+
+
+1028941110@teinco.edu.co
+
+S1s3
+
+9112
+
+
+10.110.50.24
+
+
+Sayded padilla
+
+saided corporativo
+
+¿Qué activos quiero proteger? (servidores, PCs, laptops, nube, correo).
+
+¿Dónde estará la consola central (ePO – ePolicy Orchestrator)? (servidor físico, máquina virtual o nube).
+
+¿Cuántos endpoints tendrá la organización? (esto define licenciamiento).
+
+¿Qué políticas de seguridad aplicarán? (antivirus, cifrado, control de USB, firewall, etc.).
+
+
+
